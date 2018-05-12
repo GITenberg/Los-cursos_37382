@@ -1,0 +1,43 @@
+_repo: Los-cursos_37382
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Luengo, José A.
+    alias: Luengo, Jose A.
+    gutenberg_agent_id: '38812'
+    url: http://www.gutenberg.org/2009/agents/38812
+covers:
+- cover_type: archival
+  image_path: 37382-h/images/cover_sml.jpg
+creator:
+  author:
+    agent_name: Veber, Pierre
+    aliases:
+    - Veber, Pierre-Eugène
+    - Veber, Pierre-Eugene
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '38808'
+    url: http://www.gutenberg.org/2009/agents/38808
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_V%C3%A9ber
+    - http://fr.wikipedia.org/wiki/Pierre_Veber
+description: ''
+gutenberg_issued: '2011-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37382'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'One-act plays'
+- !lcsh 'Drama'
+tableOfContents: Curso de literatura  -- Curso de declamación -- Curso de euritmia
+  -- Curso de natación -- Curso de idiomas -- Curso de «bridge» -- Curso de belleza
+  -- Curso de cocina -- Curso de decorado -- Curso de medicina -- Curso de pintura
+  -- Curso de moral -- Curso de amor -- Curso de canto -- Curso de esgrima.
+title: Los cursos
+url: http://www.gutenberg.org/ebooks/37382
