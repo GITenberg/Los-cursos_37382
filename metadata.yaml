@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Pierre_V%C3%A9ber
     - http://fr.wikipedia.org/wiki/Pierre_Veber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37382#Los-cursos
 gutenberg_issued: '2011-09-10'
 gutenberg_type: Text
 identifiers:
